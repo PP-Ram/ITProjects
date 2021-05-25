@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\BalasubramanianR\source\repos\MasterSignal\MasterSignal\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPayment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPaymentHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCheckList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmChart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmConfimDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmDashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmHoliday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTimesheet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTrend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmTickList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
